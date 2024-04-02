@@ -14,7 +14,7 @@ https://www.mediafire.com/file/h0vu6mfa6nuedf4/Super+Bomberman+5+(Japan)+[T-En+b
 
 https://www.mediafire.com/file/x6timryue0m16eh/Super+Mario+World+(USA).sfc/file
 
-https://www.mediafire.com/file/wtxrgqdvuv5ry5t/Ultimate+Mortal+Kombat+3+(Europe).sfc/file
+https://www.mediafire.com/file/yz437tnrgzo1dxw/Ultimate+Mortal+Kombat+3+(Europe).zip/file
 
 ARCADE
 
