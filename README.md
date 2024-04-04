@@ -2,6 +2,8 @@ RetroArch
 
 https://www.mediafire.com/file/6g4aty5q6osfx8p/RetroArch_Psx-Place_NOVO.pkg/file
 
+https://xbins.org/libretro/stable/1.9.0/playstation/ps3/RetroArch.PS3.CEX.PS3.pkg
+
 SNES
 
 https://www.mediafire.com/file/cykx1tzea48cxm8/Super+Bomberman+2+(Europe).sfc/file
